@@ -14,7 +14,7 @@ Interactive real-time clock dashboard with **animated gradient background**, dyn
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/nadupalleganesh/animated-gradient-clock-ui.git
+git clone https://github.com/nadupalleganesh/-animated-gradient-clock-ui
 
 2.Open clock.html in your browser.
 
